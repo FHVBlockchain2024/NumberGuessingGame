@@ -1,1 +1,1 @@
-# NumberGuessingGame
+# Project is in master branch
